@@ -1,3 +1,4 @@
+//Sử dụng để tạo kết nối database
 const { Sequelize } = require('sequelize');
 
 // Option 3: Passing parameters separately (other dialects)
