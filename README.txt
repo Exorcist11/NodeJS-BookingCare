@@ -13,3 +13,5 @@
 + npx sequelize-cli db:migrate : Kết nối cơ sở dữ liệu
 + npx sequelize-cli seed:generate --name demo-user : Tạo demo user
 + npx sequelize-cli db:seed:all : Chạy sequelize
+
+#Đổi version nodejs: nvm use 19.5.0 (02/02/2023)
