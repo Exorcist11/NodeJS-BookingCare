@@ -15,3 +15,4 @@
 + npx sequelize-cli db:seed:all : Chạy sequelize
 
 #Đổi version nodejs: nvm use 19.5.0 (02/02/2023)
+#Danh sách version nodejs: nvm list
