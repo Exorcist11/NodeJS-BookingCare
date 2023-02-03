@@ -10,7 +10,7 @@
 + node_modules/.bin/sequelize init        
 + npx sequelize-cli model:generate --name User --attributes firstName:string,lastName:string,email:string : Khởi tạo đối tượng 
 + npm install --save mysql2@2.2.5 : Cài đặt thư viện mysql2
-+ npx sequelize-cli db:migrate : Kết nối cơ sở dữ liệu
++ npx sequelize-cli db:migrate : Tạo cơ sở dữ liệu
 + npx sequelize-cli seed:generate --name demo-user : Tạo demo user
 + npx sequelize-cli db:seed:all : Chạy sequelize
 
